@@ -1,9 +1,6 @@
 # import librairies
 import numpy as np
 from scipy.io import wavfile
-import pandas as pd
-from sklearn.model_selection import train_test_split as tts
-from sklearn.ensemble import RandomForestClassifier as RF
 import pickle
 
 ################### class to get setting of audio ####################
